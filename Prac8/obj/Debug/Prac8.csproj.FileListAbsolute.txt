@@ -1,0 +1,10 @@
+C:\Users\DANIL\source\repos\Prac8\Prac8\bin\Debug\Prac8.exe.config
+C:\Users\DANIL\source\repos\Prac8\Prac8\bin\Debug\Prac8.exe
+C:\Users\DANIL\source\repos\Prac8\Prac8\bin\Debug\Prac8.pdb
+C:\Users\DANIL\source\repos\Prac8\Prac8\obj\Debug\Prac8.csprojAssemblyReference.cache
+C:\Users\DANIL\source\repos\Prac8\Prac8\obj\Debug\Prac8.Nazarov.resources
+C:\Users\DANIL\source\repos\Prac8\Prac8\obj\Debug\Prac8.Properties.Resources.resources
+C:\Users\DANIL\source\repos\Prac8\Prac8\obj\Debug\Prac8.csproj.GenerateResource.cache
+C:\Users\DANIL\source\repos\Prac8\Prac8\obj\Debug\Prac8.exe
+C:\Users\DANIL\source\repos\Prac8\Prac8\obj\Debug\Prac8.pdb
+C:\Users\DANIL\source\repos\Prac8\Prac8\obj\Debug\Prac8.Form1.resources
